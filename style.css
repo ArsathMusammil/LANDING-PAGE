@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header.jumbotron {
+    background-color: #337ab7;
+    color: white;
+    margin-bottom: 0;
+    padding: 100px 25px;
+}
+
+section.container {
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+}
